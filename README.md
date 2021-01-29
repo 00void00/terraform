@@ -1,6 +1,6 @@
 # Final script in terraform.tf
 
-Contributing guidelines
+# Contributing guidelines
 Please have a look to the Contributing Guidelines first.
 
 We follow the "fork-and-pull" Git workflow.
