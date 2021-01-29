@@ -5,7 +5,7 @@
 ● Launch a VMs, two in the public subnet(2-web server and 1- bastion host), one in the
 private subnet(1- database server)
 
-● Create a security group for each VM.
+● Created a security group for each VM.
 
 ● SSH in database server will be done by the bastion host only
 
@@ -19,9 +19,13 @@ Please have a look to the Contributing Guidelines first.
 follow the "fork-and-pull" Git workflow.
 
 Fork the repo on GitHub.
+
 Clone the project to your own machine.
+
 Commit changes to your own branch.
+
 Push your work back up to your fork.
+
 Submit a Pull request so that I can review your changes.
 
 NOTE: Be sure to merge the latest from "upstream" before making a pull request!
